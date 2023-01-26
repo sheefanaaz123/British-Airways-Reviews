@@ -3,7 +3,7 @@
 This project is a part of the Data Science virtual internship program offered by Forage with British Airways.
 
 The virtual Internship is divided into two main tasks:
-Web scraping to gain company insights
+Web scraping to gain company insights and
 Predicting customer buying behaviour
 
 Task 1 - Web scraping to gain company insights
