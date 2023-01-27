@@ -1,5 +1,7 @@
 # British-Airways-Reviews
 
+British Airways is one of the world's most renowned airlines. They provide quality service and flights to their passengers. One of the things that make British Airways stand out is their great customer service. They have provided customers with excellent service for more than a century. In fact, they have been voted the 'Best Airline in the World' by Skytrax for the past eleven years in a row! With their excellent customer service, luxurious seats, delicious food, and great destinations, it is no wonder that so many people fly with British Airways each year. Today, we are going to review the BA airline to help you decide whether to fly with them or not. We'll look at their service, flights, destinations, lounge and more! 
+
 This project is a part of the Data Science virtual internship program offered by Forage with British Airways.
 
 The virtual Internship is divided into two main tasks:
